@@ -1,15 +1,17 @@
 # Threads Clone
 
-Stack: Nuxt / Supabase / Pinia / Prisma 
-Big thanks to [John Weeks Dev](https://www.youtube.com/@johnweeksdev) for the tutorial.
+## Stack: Nuxt / Vue / Pinia / Supabase / Prisma
 
 ```bash
 Features: 
 - CRUD Post with file upload
 - Like / unlike Post 
 - Login using Github
+- PWA
 
 ```
+
+Big thanks to [John Weeks Dev](https://www.youtube.com/@johnweeksdev) for the tutorial.
 
 ## Setup
 

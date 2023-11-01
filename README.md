@@ -1,6 +1,15 @@
-# Nuxt 3 Minimal Starter
+# Threads Clone
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Stack: Nuxt / Supabase / Pinia / Prisma 
+Big thanks to [John Weeks Dev](https://www.youtube.com/@johnweeksdev) for the tutorial.
+
+```bash
+Features: 
+- CRUD Post with file upload
+- Like / unlike Post 
+- Login using Github
+
+```
 
 ## Setup
 

@@ -1,6 +1,6 @@
 # Threads Clone
 
-## Stack: Nuxt / Vue / Pinia / Supabase / Prisma
+## Stack: Nuxt / Vue / Pinia / Tailwind / Supabase / Prisma
 
 ```bash
 Features: 

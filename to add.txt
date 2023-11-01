@@ -1,0 +1,5 @@
+threads clone :
+- add auth using email and password
+- add auth with google
+- after creating / liking / unliking post instead of getAllPost you should get the inserted element and add it to the base array
+(it will increment perf)
